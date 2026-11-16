@@ -56,7 +56,6 @@ My technical interests include designing efficient digital systems, developing v
 
 - **Nokia Solutions & Networks India Pvt. Ltd.** – Manufacturing Service IT Intern
 - **Sun Industrial Automation & Solutions Pvt. Ltd.** – Industrial Automation Intern
-- **Sri Hari Nandhanan Industry** – Production Management Intern
 
 ### 🎓 Education
 
